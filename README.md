@@ -1,4 +1,4 @@
-# On an existing Web App, Bind a custom domain, create the DNS record to validate, Import from an App Service Certificate and Bind it
+# On an existing Web App, create DNS records to validate, Bind a custom domain, Import a certificate from an App Service Certificate and Bind it.
 
 [![Deploy To Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fcoelho5br%2FDeployWebApp-ASP-Bind-Custom-Domain-and-CertificateFromAppServiceCertificate%2Fmaster%2Fazuredeploy.json)
 [![Visualize](https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/visualizebutton.svg?sanitize=true)](http://armviz.io/#/?load=https%3A%2F%2Fraw.githubusercontent.com%2Fcoelho5br%2FDeployWebApp-ASP-Bind-Custom-Domain-and-CertificateFromAppServiceCertificate%2Fmaster%2Fazuredeploy.json)

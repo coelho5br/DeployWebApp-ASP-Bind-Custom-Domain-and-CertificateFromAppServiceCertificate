@@ -17,7 +17,7 @@
     "websiteName": {
       "type": "string",
       "metadata" : {
-                "description":"Web App name that will host the Custom Domain."
+                "description":"Web App name that will host the Custom Domain. This name should be unique in Azure."
       }
     },
     "dnsResourceGroup": {
